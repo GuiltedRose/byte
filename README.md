@@ -69,14 +69,14 @@ I will be doing this in my spare time every single day after work & on my days o
 
 ## Recommended Distros:
 
-(WSL information)[[https://learn.microsoft.com/en-us/windows/wsl/install]]
-(POP!OS)[[https://pop.system76.com/]]
-(Ubuntu)[[https://ubuntu.com/download/desktop]]
-(Fedora)[[https://fedoraproject.org/workstation/]]
-(Nobara)[[https://nobaraproject.org/download-nobara/]]
+   * [WSL information](https://learn.microsoft.com/en-us/windows/wsl/install)
+   * [POP!OS](https://pop.system76.com/)
+   * [Ubuntu](https://ubuntu.com/download/desktop)
+   * [Fedora](https://fedoraproject.org/workstation/)
+   * [Nobara](https://nobaraproject.org/download-nobara/)
 
 ### WARNING: REQUIRES READING AND LEARNING
-(Arch)[[https://archlinux.org/]]
-(Gentoo)[[https://www.gentoo.org/]]
-(Linux From Scratch)[[https://www.linuxfromscratch.org/lfs/]]
+   * [Arch](https://archlinux.org/)
+   * [Gentoo](https://www.gentoo.org/)
+   * [Linux From Scratch](https://www.linuxfromscratch.org/lfs/)
 
